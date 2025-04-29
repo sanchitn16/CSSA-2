@@ -1,0 +1,214 @@
+body{
+    background-image: url(./R.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 30px;    
+}
+#wqp{
+    border: 7px solid rgba(255, 0, 0, 0.41);
+    border-radius: 40px;
+    height: 175px;
+    width: 350px;
+    font-weight: bold;
+    font-style:italic;
+    font-size:large;
+    background-color: rgba(110, 76, 7, 0.575);
+    color: rgba(255, 255, 255, 0.585);
+    padding-left: 26px;
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+#wqp2{
+    border: 7px solid rgba(255, 0, 0, 0.41);
+    border-radius: 40px;
+    height: 175px;
+    width: 350px;
+    font-weight: bold;
+    font-style:italic;
+    font-size:large;
+    background-color: rgba(110, 76, 7, 0.575);
+    color: rgba(255, 255, 255, 0.585);
+    padding-left: 26px;   
+}
+.card2{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+#wqp3{
+    border: 7px solid rgba(255, 0, 0, 0.41);
+    border-radius: 40px;
+    height: 175px;
+    width: 350px;
+    font-weight: bold;
+    font-style:italic;
+    font-size:large;
+    background-color: rgba(110, 76, 7, 0.575);
+    color: rgba(255, 255, 255, 0.585);
+    padding-left: 26px;   
+}
+.card3{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+#ratting{
+    display:flex;
+    justify-content: space-between;
+}
+#sale{
+    height: 430px;
+    width: 430px;
+    border: 7px solid rgb(17, 1, 1);
+    border-radius: 50%;
+    background-color: rgba(110, 76, 7, 0.575);
+    margin-top: 200px;
+  }
+  .p1{
+    color: rgba(255, 255, 255, 0.585);
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: x-large;
+    font-style: italic;
+    margin-top: 100px;
+    margin-left: 110px;
+  }
+  .p2{
+    color: rgba(255, 255, 255, 0.585);
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+  
+  .p3{
+    color: rgba(255, 255, 255, 0.585);
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 100px;
+    margin-top: 40px;
+  }
+  #regoffer{
+    height: 770px;
+    width: 500px;
+    border: 7px dashed rgb(61, 3, 3);
+    display: inline-flex;
+    justify-content: center;
+
+  }
+  
+  #regh1{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.585);
+  }
+  
+  #reg{
+    width: 500px;
+  }
+  
+  .form-details{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.585);
+  }
+  
+  .details {
+    display: flex;
+    margin-left: 160px;
+    align-items: center;
+  }
+  
+  .date{
+    display: flex;
+    margin-left: 170px;
+    width: 160px;
+    align-items: center;
+  }
+  
+  .check {
+    margin-left: 240px;
+  }
+  
+  #click {
+    margin-left: 208px;
+  }
+  
+  #reset {
+    margin-left: 227px;
+  }
+  
+  #menu{
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: italic;
+    text-transform: uppercase;
+    height: 100px;
+    width: 500px;
+    border: 7px solid red;
+    border-radius: 35px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 490px;
+    margin-top: 30px;
+  }
+  
+  .menu1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    color: darkblue;
+  }
+  
+  .box1{
+    border: 3px solid darkgreen;
+    border-radius: 35px;
+    background-color: aqua;
+    width: 25%;
+  }
+  
+  .food{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 100px;
+  }
+  
+  li {
+    margin-left: 100px;
+    font-size: larger;
+  }
+  
+  .menu2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    color: darkblue;
+  }
+  
+  .box2{
+    border: 3px solid darkgreen;
+    border-radius: 35px;
+    background-color: aqua;
+    width: 25%;}
